@@ -18,9 +18,9 @@ import (
 	"fmt"
 	"math/big"
 
-	"github.com/btcsuite/btcd/btcec"
-	"github.com/btcsuite/btcd/chaincfg"
-	"github.com/btcsuite/btcd/chaincfg/chainhash"
+	"github.com/straysh/btcd/btcec"
+	"github.com/straysh/btcd/chaincfg"
+	"github.com/straysh/btcd/chaincfg/chainhash"
 	"github.com/btcsuite/btcutil"
 	"github.com/btcsuite/btcutil/base58"
 )
