@@ -11,7 +11,7 @@ import (
 
 	"github.com/straysh/btcd/chaincfg/chainhash"
 	"github.com/straysh/btcd/wire"
-	"github.com/btcsuite/btcutil"
+	"github.com/straysh/btcutil"
 )
 
 // Coin represents a spendable transaction outpoint

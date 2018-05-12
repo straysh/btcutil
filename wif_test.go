@@ -9,7 +9,7 @@ import (
 
 	"github.com/straysh/btcd/btcec"
 	"github.com/straysh/btcd/chaincfg"
-	. "github.com/btcsuite/btcutil"
+	. "github.com/straysh/btcutil"
 )
 
 func TestEncodeDecodeWIF(t *testing.T) {

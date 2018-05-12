@@ -8,7 +8,7 @@ import (
 	"github.com/straysh/btcd/blockchain"
 	"github.com/straysh/btcd/chaincfg/chainhash"
 	"github.com/straysh/btcd/wire"
-	"github.com/btcsuite/btcutil"
+	"github.com/straysh/btcutil"
 )
 
 // merkleBlock is used to house intermediate information needed to generate a

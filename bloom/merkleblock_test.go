@@ -11,8 +11,8 @@ import (
 
 	"github.com/straysh/btcd/chaincfg/chainhash"
 	"github.com/straysh/btcd/wire"
-	"github.com/btcsuite/btcutil"
-	"github.com/btcsuite/btcutil/bloom"
+	"github.com/straysh/btcutil"
+	"github.com/straysh/btcutil/bloom"
 )
 
 func TestMerkleBlock3(t *testing.T) {

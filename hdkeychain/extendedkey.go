@@ -21,8 +21,8 @@ import (
 	"github.com/straysh/btcd/btcec"
 	"github.com/straysh/btcd/chaincfg"
 	"github.com/straysh/btcd/chaincfg/chainhash"
-	"github.com/btcsuite/btcutil"
-	"github.com/btcsuite/btcutil/base58"
+	"github.com/straysh/btcutil"
+	"github.com/straysh/btcutil/base58"
 )
 
 const (

@@ -13,7 +13,7 @@ import (
 	"testing"
 
 	"github.com/straysh/btcd/chaincfg"
-	"github.com/btcsuite/btcutil"
+	"github.com/straysh/btcutil"
 	"golang.org/x/crypto/ripemd160"
 )
 

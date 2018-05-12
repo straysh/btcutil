@@ -11,7 +11,7 @@ import (
 
 	"github.com/straysh/btcd/chaincfg/chainhash"
 	"github.com/straysh/btcd/wire"
-	"github.com/btcsuite/btcutil/bloom"
+	"github.com/straysh/btcutil/bloom"
 )
 
 // This example demonstrates how to create a new bloom filter, add a transaction
